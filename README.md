@@ -1,4 +1,4 @@
-# The wiki is available at [wiki.parity.io](https://wiki.parity.io)
+# The wiki is available at [wiki.tenda.dev](https://wiki.tenda.dev)
 
 This Wiki is open source, anybody can contribute! If you spot an error, a typo, or feel like creating or amending some content, feel free to do so. Here is a quick how-to:
 
